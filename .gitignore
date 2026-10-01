@@ -1,0 +1,8 @@
+# virtual env folder
+ml/
+
+# data files
+heart.csv
+new_unseen_data.csv
+# or all CSVs
+*.csv
